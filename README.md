@@ -1,4 +1,4 @@
-# IssueReader
+# React Native Apollo Client
 
 On September 14, 2016, GitHub announced a preview of their new GraphQL API. [Read our recap of the news here!](https://medium.com/apollo-stack/the-new-github-graphql-api-811b005d1b6e#.jicbo4wzl).
 
